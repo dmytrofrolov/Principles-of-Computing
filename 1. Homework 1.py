@@ -1,5 +1,6 @@
 """
 Simulator for resource generation with upgrades
+Homework program for Week 1.
 """
 
 import simpleplot
